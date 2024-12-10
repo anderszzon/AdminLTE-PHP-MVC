@@ -127,13 +127,13 @@
                             </a>
                             <ul class="nav nav-treeview">
                                 <li class="nav-item"> <a href="./index.html" class="nav-link active"> <i class="nav-icon bi bi-circle"></i>
-                                        <p>Dashboard v1</p>
+                                        <p>Inventory</p>
                                     </a> </li>
                                 <li class="nav-item"> <a href="./index2.html" class="nav-link"> <i class="nav-icon bi bi-circle"></i>
-                                        <p>Dashboard v2</p>
+                                        <p>Customers</p>
                                     </a> </li>
                                 <li class="nav-item"> <a href="./index3.html" class="nav-link"> <i class="nav-icon bi bi-circle"></i>
-                                        <p>Dashboard v3</p>
+                                        <p>Administration</p>
                                     </a> </li>
                             </ul>
                         </li>
